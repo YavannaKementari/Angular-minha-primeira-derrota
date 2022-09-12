@@ -1,0 +1,22 @@
+<svg id="icone_relogio_menu" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icone_safearea" data-name="icone+safearea">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <g id="Relógio" transform="translate(4 4)">
+      <g id="Ellipse_342" data-name="Ellipse 342" fill="#e6e6e6" stroke="#bebebe" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.5" fill="none"/>
+      </g>
+      <g id="borda_horários" data-name="borda horários" transform="translate(0.727 0.687)">
+        <g id="Ellipse_341" data-name="Ellipse 341" fill="none" stroke="#f24e3e" stroke-width="0.8">
+          <circle cx="7.273" cy="7.273" r="7.273" stroke="none"/>
+          <circle cx="7.273" cy="7.273" r="6.873" fill="none"/>
+        </g>
+        <path id="Forma_28_copiar_3" data-name="Forma 28 copiar 3" d="M176.18,184.028a1.127,1.127,0,0,0,1.5.092.71.71,0,0,0,.113-.8,1.111,1.111,0,0,0-1.5-.092Q176.237,183.629,176.18,184.028Z" transform="translate(-175.912 -176.358)" fill="#f24e3e" fill-rule="evenodd"/>
+        <path id="Forma_28_copiar_4" data-name="Forma 28 copiar 4" d="M419.484,182.091a1.127,1.127,0,0,1-1.5.092.71.71,0,0,1-.113-.8,1.111,1.111,0,0,1,1.5-.092Z" transform="translate(-405.314 -174.516)" fill="#f24e3e" fill-rule="evenodd"/>
+        <path id="Forma_28_copiar_5" data-name="Forma 28 copiar 5" d="M302.841,298.753a1.054,1.054,0,0,0,.095-1.461.765.765,0,0,0-.823-.11,1.041,1.041,0,0,0-.095,1.461Z" transform="translate(-294.63 -284.742)" fill="#f24e3e" fill-rule="evenodd"/>
+        <path id="Forma_28_copiar_6" data-name="Forma 28 copiar 6" d="M301.872,46.992a1.054,1.054,0,0,1,.095,1.461.765.765,0,0,1-.823.11,1.041,1.041,0,0,1-.1-1.461Z" transform="translate(-294.262 -46.41)" fill="#f24e3e" fill-rule="evenodd"/>
+      </g>
+      <path id="Ponteiros" d="M3.691,6.7C2.81,6.042,2.4,5.787,1.644,5.236H1.6a.736.736,0,0,1-.726-.707.709.709,0,0,1,.065-.319C.929,3.308.9,2.805.9,1.717H0L1.428,0,2.909,1.716H2.027c.022,1.009.066,1.5.1,2.293a.753.753,0,0,1,.132.191c.806.62,1.214.9,2.124,1.612L4.939,5.1l.473,2.181L3.148,7.4Z" transform="translate(6.545 3.57)" fill="#f24e3e"/>
+    </g>
+  </g>
+</svg>

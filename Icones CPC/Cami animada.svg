@@ -1,0 +1,248 @@
+<svg id="Cami-nova-cor-_animada" data-name="Cami-nova-cor- animada" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="104" viewBox="0 0 72 104">
+  <defs>
+    <filter id="Orelha_E">
+      <feOffset dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.25" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Orelha_D">
+      <feOffset dx="0.5" dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.25" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Fundo_oculos_E" x="22.904" y="44.227" width="10.615" height="11.115" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fundo_oculos_D" x="34.332" y="42.306" width="10.615" height="11.115" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Aste_C_" x="30.638" y="45.963" width="6.385" height="4.612" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Aste_E" x="21.901" y="51.292" width="2.204" height="2.094" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sombra_cabelo_E" x="18.052" y="35.493" width="11.944" height="17.876" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.5" dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Lingua">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Sombra_rosto_D" x="24.979" y="28.435" width="28.167" height="33.006" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Cabelo_D" x="27.789" y="23.646" width="27.014" height="35.98" filterUnits="userSpaceOnUse">
+      <feOffset dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sombra_cabelo_D" x="27.379" y="23.635" width="13.245" height="14.052" filterUnits="userSpaceOnUse">
+      <feOffset dx="-0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fita_E" x="32.238" y="67.082" width="17.383" height="24.828" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Fita_D" x="41.501" y="65.438" width="9.714" height="26.611" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Crachá" x="46.769" y="89.079" width="10.11" height="11.49" filterUnits="userSpaceOnUse">
+      <feOffset dx="-0.5" dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Manga" x="23.325" y="73.253" width="8.597" height="12.378" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.5" dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Braço_E" x="20.601" y="57.794" width="16.413" height="40.918" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-16"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Cami-animada" transform="translate(0)">
+    <g id="Cabeça">
+      <g id="Rabo_cavalo" data-name="Rabo cavalo" transform="translate(0 22.333)">
+        <path id="Rabo_de_cavalo" data-name="Rabo de cavalo" d="M172.32,233.613a6.423,6.423,0,0,0-2.045-2.047c-11.353-7.213-22.285,7.883-19.218,20.026,1.494,7.93,1.934,12.223-1.723,13.664s-7.82-2.932-9.015-6.322c-.5,3.379-.7,5.765,1.883,9.509,2.072,2.563,4.041,3.7,8.437,5.578,4.385,1.25,9.083,1.319,12.171-1.3,2.583-2.187,3.184-5.412,3.578-7.327.075-.365,2.738-9.821,4.192-15.085C172.71,242.61,174.841,237.566,172.32,233.613Z" transform="translate(-139.978 -229.683)" fill="#eb5b1a" fill-rule="evenodd"/>
+        <path id="Sombra_rabo_cavalo" data-name="Sombra rabo cavalo" d="M170.856,235.393a8.6,8.6,0,0,0-1.738-1.724,6.22,6.22,0,0,0-1.771-.921,7.812,7.812,0,0,1-2.523,4.692c-2.19,2.3-3.675,1.231-6.236,4.525s-5.277,9.328-1.636,19.825-.257,11.3-1.546,11.9-7.7,1.434-11.812-1.734a11.036,11.036,0,0,1-4.633-10.939,11.812,11.812,0,0,0,.592,7.266c1.732,3.719,5.54,5.912,8.285,7.186a13.642,13.642,0,0,0,7.568,1.295,13.807,13.807,0,0,0,6.249-2.151,11.575,11.575,0,0,0,3.169-6.573C164.924,267.5,174.169,240.029,170.856,235.393Z" transform="translate(-138.616 -231.679)" fill="#ca2f0a" fill-rule="evenodd" opacity="0.64" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Sombra_rabo_cavalo-2" data-name="Sombra rabo cavalo" d="M330.265,481.688a9.277,9.277,0,0,1-2.879,1.691,14.367,14.367,0,0,1-10.267-.514c-5.936-2.437-11.409-6.773-9.574-14.711-2.241,9.641,6.808,14.027,11.475,14.711s8.4-1.035,9.809-2.564,1.81-3.537.432-6.282-1.356-2.329-2.362-4.675-.738-3.827-1.437-4.373c1.011-1.823,8.387,2.467,9.392,2.583,2.008.232-.353,6.567-1.536,9.11S332.255,479.986,330.265,481.688Z" transform="translate(-307.185 -438.847)" fill="#631205" fill-rule="evenodd"/>
+        <path id="Forma_10" data-name="Forma 10" d="M179.435,262.824c2.126,3.948,5.2,7.27,8.7,6.33,1.251-.449,3.253-1.613,3.143-5.268a59.561,59.561,0,0,0-1.32-9.439,19.131,19.131,0,0,1,1.762-12.266c2.2-4.461,4.95-6.676,7.46-7.781a10.1,10.1,0,0,1,8.715.109c-11.827-.107-15.75,11.6-15.256,16.785.247,2.593.658,4.272,1,7.22.43,3.674,1.769,11.227-4.572,12.52C185.521,272.112,180.856,268.506,179.435,262.824Z" transform="translate(-179.093 -233.467)" fill="#f97b43" fill-rule="evenodd" opacity="0.4" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <g id="Orelhas" transform="translate(20.56 49.903)">
+        <g data-type="innerShadowGroup">
+          <path id="Orelha_E-2" data-name="Orelha E" d="M342.4,507.171c-.481-.334-1.177-.619-1.636-.323-.653.421-.436,1.788-.2,2.478.559,1.665,2.305,2.651,4.192,3.017Z" transform="translate(-340.329 -503.766)" fill="#f5b387" fill-rule="evenodd"/>
+          <g transform="matrix(1, 0, 0, 1, -20.56, -49.9)" filter="url(#Orelha_E)">
+            <path id="Orelha_E-3" data-name="Orelha E" d="M342.4,507.171c-.481-.334-1.177-.619-1.636-.323-.653.421-.436,1.788-.2,2.478.559,1.665,2.305,2.651,4.192,3.017Z" transform="translate(-319.77 -453.86)" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+        <g data-type="innerShadowGroup">
+          <path id="Orelha_D-2" data-name="Orelha D" d="M583.968,489.261c.388-.449,1-.905,1.51-.738.732.239.841,1.619.777,2.349-.153,1.759-1.615,3.167-3.357,4.012Z" transform="translate(-557.837 -489.487)" fill="#f5b387" fill-rule="evenodd"/>
+          <g transform="matrix(1, 0, 0, 1, -20.56, -49.9)" filter="url(#Orelha_D)">
+            <path id="Orelha_D-3" data-name="Orelha D" d="M583.968,489.261c.388-.449,1-.905,1.51-.738.732.239.841,1.619.777,2.349-.153,1.759-1.615,3.167-3.357,4.012Z" transform="translate(-537.28 -439.58)" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="Pescoço" transform="translate(32.547 60.742)">
+        <path id="Pescoço-2" data-name="Pescoço" d="M462.049,588.551l1.227,4.633a4.53,4.53,0,0,0,3.985,1.278,4.709,4.709,0,0,0,3.376-2.571l.2-5.711Z" transform="translate(-461.64 -585.534)" fill="#f5b387" fill-rule="evenodd"/>
+        <path id="Sombra_pescoço" data-name="Sombra pescoço" d="M459.159,586.083a6.812,6.812,0,0,0,3.783-.107,14.62,14.62,0,0,0,4.192-4.31v-1.509l-9.1,1.508Z" transform="translate(-458.034 -580.157)" fill="#f1804a" fill-rule="evenodd" opacity="0.4" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+      <g id="Rosto" transform="translate(21.111 29.092)">
+        <path id="Rosto-2" data-name="Rosto" d="M346.133,306.9a27.68,27.68,0,0,0,2.965,6.9,20.54,20.54,0,0,0,3.14,3.99c.532.418,8.078,4.232,9.742,3.768s5.3-4.011,7.361-6.68a40.455,40.455,0,0,0,1.533-4.957,34.683,34.683,0,0,0,1.022-6.788c.277-8.318-2.228-12.932-4.6-14.977a12.151,12.151,0,0,0-11.348-2.37C348.134,288.2,344.469,299.129,346.133,306.9Z" transform="translate(-345.739 -285.268)" fill="#f5b387" fill-rule="evenodd"/>
+      </g>
+      <g id="Blush" transform="translate(24.997 50.118)">
+        <path id="Blush_E" data-name="Blush E" d="M383.922,503.316c.322-1.591,4.393-2.554,5.362-1.222a1.267,1.267,0,0,1,.2.989c-.344,1.628-4.057,2.683-5.218,1.355A1.36,1.36,0,0,1,383.922,503.316Z" transform="translate(-383.9 -499.286)" fill="#f8b589" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Blush_D" data-name="Blush D" d="M529.8,481.9c-.845-1.361-4.971-.711-5.419.9a1.269,1.269,0,0,0,.156,1c.878,1.387,4.7.959,5.331-.721A1.38,1.38,0,0,0,529.8,481.9Z" transform="translate(-510.034 -481.166)" fill="#f8b589" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+      <g id="Óculos" transform="translate(21.901 42.306)">
+        <g transform="matrix(1, 0, 0, 1, -21.9, -42.31)" filter="url(#Fundo_oculos_E)">
+          <path id="Fundo_oculos_E-2" data-name="Fundo oculos E" d="M363.619,433.566c.777,2.4,3.334,4.417,5.911,3.673,2.434-.7,3.634-3.505,3.4-5.794-.3-2.978-3.078-5.692-5.877-5.078S362.682,430.674,363.619,433.566Zm.662-.252c.664,2.048,2.847,3.771,5.047,3.137,2.077-.6,3.1-2.993,2.907-4.947-.256-2.543-2.628-4.861-5.018-4.336s-3.736,3.678-2.936,6.147Z" transform="translate(-340.44 -382.05)" fill="#343434" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.9, -42.31)" filter="url(#Fundo_oculos_D)">
+          <path id="Fundo_oculos_D-2" data-name="Fundo oculos D" d="M485.654,415.672c.777,2.4,3.334,4.417,5.911,3.673,2.434-.7,3.634-3.505,3.4-5.794-.3-2.978-3.078-5.692-5.877-5.078S484.717,412.78,485.654,415.672Zm.662-.252c.664,2.048,2.847,3.771,5.047,3.137,2.078-.6,3.1-2.993,2.907-4.947-.255-2.543-2.628-4.861-5.018-4.336s-3.736,3.678-2.936,6.147Z" transform="translate(-450.05 -366.08)" fill="#2e2d36" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.9, -42.31)" filter="url(#Aste_C_)">
+          <path id="Aste_C_2" data-name="Aste C " d="M454.253,458.045a2.894,2.894,0,0,1,3.149-.494q-.018-.377-.037-.753a2.591,2.591,0,0,0-3.348.612Z" transform="translate(-421.88 -408.97)" fill="#343434" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.9, -42.31)" filter="url(#Aste_E)">
+          <path id="Aste_E-2" data-name="Aste E" d="M355.2,492.734l-1.157,1.465-.547-.726,1.367-1.368Z" transform="translate(-331.59 -440.81)" fill="#343434" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Sombra_manga" data-name="Sombra manga" d="M589.432,516.939c1.643-.172,3.374.6,4.911,1.265,2.432,1.053,5.49,3.023,5.214,3.879-.255.789-3.373.744-5.827-.539A9.759,9.759,0,0,1,589.432,516.939Z" transform="translate(-543.598 -463.064)" fill="#631205" fill-rule="evenodd"/>
+      <g id="Braço" transform="translate(45.94)">
+        <path id="Braço_D" data-name="Braço D" d="M597.314,73.227,608.969,33.36a28.929,28.929,0,0,0,3.272-4.741,30.2,30.2,0,0,0,3.272-9.266.888.888,0,0,0-.307-1.185c-.254-.075-.654.163-.818.646l-2.351,5.818-.409-.754L614.49,15.8a.9.9,0,0,0-.511-1.185.847.847,0,0,0-1.022.754.968.968,0,0,0-.2-1.077c-.312-.209-.954-.02-1.227.646L610.3,16.767c-.081-.409-.243-.79-.511-.862-.239-.064-.577.155-1.022.754-1.112,1.5-2.478,5.017-3.374,7.542a7.894,7.894,0,0,0-1.227-2.8c-.558-.772-1.1-1.069-1.431-1.077a1.275,1.275,0,0,0-.716.216l.818,3.448q-.052,1.133,0,2.263a24.5,24.5,0,0,0,.716,4.849L589.544,73.98Z" transform="translate(-589.544 -14.208)" fill="#f5b387" fill-rule="evenodd"/>
+        <path id="Sombra_dedo" data-name="Sombra dedo" d="M759.2,96.364a10.3,10.3,0,0,1,5.725,2.694,5.322,5.322,0,0,0-5.725-2.694Z" transform="translate(-741.923 -87.448)" fill="#f8b589" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Sombra_dedo-2" data-name="Sombra dedo" d="M775.405,38.051a12.416,12.416,0,0,0-2.147,6.357Z" transform="translate(-754.549 -35.492)" fill="#f1804a" fill-rule="evenodd"/>
+        <path id="Sombra_dedo-3" data-name="Sombra dedo" d="M793.392,22.993a25.084,25.084,0,0,0-3.067,8.189Z" transform="translate(-769.878 -22.05)" fill="#f1804a" fill-rule="evenodd"/>
+        <path id="Sombra_dedo-4" data-name="Sombra dedo" d="M746.153,107.32a4.329,4.329,0,0,1,2.529,2.559,4.665,4.665,0,0,1-.178,3.69,5.839,5.839,0,0,0,0-3.017A5.606,5.606,0,0,0,746.153,107.32Z" transform="translate(-730.204 -97.326)" fill="#f8b589" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Luz_franja_" data-name="Luz franja " d="M641.05,389.416a4.875,4.875,0,0,1,1.84,1.616c1.6,2.412,1.063,6.683-2.147,10.99A14.972,14.972,0,0,0,641.05,389.416Z" transform="translate(-635.529 -349.146)" fill="#f97b43" fill-rule="evenodd" opacity="0.32" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <path id="Blusa" d="M382.87,529.377a5.594,5.594,0,0,0,4.6,1.508,5.9,5.9,0,0,0,3.987-2.586,7.117,7.117,0,0,0,.818-1.724c.429-1.18.933-2.57,1.124-3.34.291-1.167.356-2.164.613-3.34a19.913,19.913,0,0,1,1.355-3.957c1.91,3.031,6.174,5.03,10.1,5.143a64.471,64.471,0,0,0-4.089,10.559c-.342,1.184-.645,2.352-.92,3.556a20.521,20.521,0,0,1,.716,2.263,13.923,13.923,0,0,1,.409,2.263,9.244,9.244,0,0,1-.818,4.31,61.367,61.367,0,0,1,1.738,7.327,7.813,7.813,0,0,0,.92,2.909,12.983,12.983,0,0,0,1.533,1.832,11.462,11.462,0,0,1,1.329,1.94,25.411,25.411,0,0,1-11.144,7,25.04,25.04,0,0,1-19.016-2.048l1.534-8.62a88.433,88.433,0,0,0-3.987-9.217,20.681,20.681,0,0,1,0-5.975,9.966,9.966,0,0,1,3.169-4.956c1.369-1.233,2.574-1.625,3.987-2.8A16.055,16.055,0,0,0,382.87,529.377Z" transform="translate(-349.505 -462.062)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Cabelo_E" data-name="Cabelo E" d="M323.057,297.945c-.269-.162-.623-1.134-.9-1.238-.212-.078-.481.162-1.039.73s.488,1.906.559,2.916a11.683,11.683,0,0,1-1.942,7,10.883,10.883,0,0,1-5.521,4.2,20.4,20.4,0,0,1-1.329-5.818,19.416,19.416,0,0,1,.2-4.849,14.733,14.733,0,0,1,3.578-7.866,11.133,11.133,0,0,1,5.725-3.125,2,2,0,0,1,1.738.107C325.918,291.389,323.327,297.316,323.057,297.945Z" transform="translate(-295.055 -260.192)" fill="#eb5b1a" fill-rule="evenodd"/>
+      <path id="Luz_cabelo_E" data-name="Luz cabelo E" d="M321.981,290.3a13.7,13.7,0,0,0-6.338,3.663c-3.62,3.713-4.835,9.223-3.987,14.438-1.26-5.143-.812-10.5,2.147-14.33,2.865-3.709,7.385-5.1,8.588-4.418.2.111.317.221.307.323C322.679,290.149,322.3,290.248,321.981,290.3Z" transform="translate(-293.421 -259.943)" fill="#f97b43" fill-rule="evenodd" opacity="0.32" style="mix-blend-mode: screen;isolation: isolate"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Sombra_cabelo_E)">
+        <path id="Sombra_cabelo_E-2" data-name="Sombra cabelo E" d="M334.391,356.029c.241.24-.189-.692-.49-.959s-.491-.281-.716-.107a5.549,5.549,0,0,0-2.249,3.125c-.613,2.1.045,3.7-.2,5.28-.381,2.405-2.183,4.509-5.214,6.357a10.4,10.4,0,0,0,3.476-1.832,11.063,11.063,0,0,0,4.089-7.435c.043-.458.024-1.446,0-2.263C333.053,355.881,334.15,355.79,334.391,356.029Z" transform="translate(-306.47 -318.36)" fill="#ca2f0a" fill-rule="evenodd"/>
+      </g>
+      <path id="Nariz" d="M461.965,481.716a4.792,4.792,0,0,0,2.819-.525,2.329,2.329,0,0,0-1.611-1.56A1.878,1.878,0,0,0,461.965,481.716Z" transform="translate(-428.996 -429.678)" fill="#f1804a" fill-rule="evenodd"/>
+      <g id="Olhos" transform="translate(26.349 46.508)">
+        <path id="Olho_E" data-name="Olho E" d="M397.262,468.185a.493.493,0,0,0,.427.3.518.518,0,0,0,.485-.464,1.463,1.463,0,0,1,.93-1.437,1.348,1.348,0,0,1,1.576.517.622.622,0,0,0,.625.175.644.644,0,0,0,.389-.349,2.372,2.372,0,0,0-2.671-1.876A2.516,2.516,0,0,0,397.262,468.185Z" transform="translate(-397.172 -463.132)" fill="#2e2d36" fill-rule="evenodd"/>
+        <path id="Olho_D" data-name="Olho D" d="M512.794,449.889a.517.517,0,0,1-.307.431.5.5,0,0,1-.6-.264,1.368,1.368,0,0,0-2.654.026.646.646,0,0,1-.532.387.615.615,0,0,1-.478-.19,2.478,2.478,0,0,1,1.913-2.717A2.413,2.413,0,0,1,512.794,449.889Z" transform="translate(-496.899 -447.535)" fill="#2e2d36" fill-rule="evenodd"/>
+      </g>
+      <g id="Boca" transform="translate(30.432 53.6)">
+        <path id="Fundo_boca" data-name="Fundo boca" d="M437.264,515.52a16.009,16.009,0,0,1,9.064-1.834,36.812,36.812,0,0,1-.275,5.129,5.314,5.314,0,0,1-1.384,3.417,3.745,3.745,0,0,1-1.354.811,3.934,3.934,0,0,1-2.112-.508,4.849,4.849,0,0,1-1.9-2.377C438.574,518.587,437.9,517.075,437.264,515.52Z" transform="translate(-437.264 -513.615)" fill="#631205" fill-rule="evenodd"/>
+        <g data-type="innerShadowGroup">
+          <path id="Lingua-2" data-name="Lingua" d="M452.01,534.427a4.211,4.211,0,0,1,3.534-3.784,4.01,4.01,0,0,1,3.93,2.167c-.048.511-.116,1.01-.2,1.508a5.817,5.817,0,0,1-1.255,3.079,3.439,3.439,0,0,1-1.658.847,3.526,3.526,0,0,1-3.221-1.771A20.962,20.962,0,0,1,452.01,534.427Z" transform="translate(-450.508 -528.794)" fill="#f24e3e" fill-rule="evenodd"/>
+          <g transform="matrix(1, 0, 0, 1, -30.43, -53.6)" filter="url(#Lingua)">
+            <path id="Lingua-3" data-name="Lingua" d="M452.01,534.427a4.211,4.211,0,0,1,3.534-3.784,4.01,4.01,0,0,1,3.93,2.167c-.048.511-.116,1.01-.2,1.508a5.817,5.817,0,0,1-1.255,3.079,3.439,3.439,0,0,1-1.658.847,3.526,3.526,0,0,1-3.221-1.771A20.962,20.962,0,0,1,452.01,534.427Z" transform="translate(-420.08 -475.19)" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+        <path id="Dente" d="M437.965,517.337a14.656,14.656,0,0,1,8.364-1.642q0-.976,0-1.951a16.287,16.287,0,0,0-9.064,1.834Z" transform="translate(-437.262 -513.673)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Sombra_rosto_D)">
+        <path id="Sombra_rosto_D-2" data-name="Sombra rosto D" d="M413.791,313.383c1.051-.766,4.377-2.223,5.2-.783a33.031,33.031,0,0,0,2.939,4.824,31.971,31.971,0,0,0,9.084,7.469c4.721,2.6,4.135,7.236,1.757,9.213,1.436-1.172,3.331-3.448,3.173-4.99-.882-8.488-10.04-17.943-17.8-22.016C418.152,307.1,413.666,311.879,413.791,313.383Z" transform="translate(-385.81 -275.66)" fill="#ca2f0a" fill-rule="evenodd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Cabelo_D)">
+        <path id="Cabelo_D-2" data-name="Cabelo D" d="M410.948,248.627s1.641-4.383,2.987-3.945,2.985,5.515,5.01,7.866c3.657,4.237,8.27,7.4,10.53,8.3a11.82,11.82,0,0,1,2.351,1.508,3.68,3.68,0,0,1,1.022,1.293c.564,1.579-.708,4.019-3.783,6.357a20.717,20.717,0,0,0,7.259-8.835,14.906,14.906,0,0,0,1.227-8.3,11.042,11.042,0,0,0-2.436-4.594c-1.681-2.174-2.3-1.3-4.8-4.076s-1.251-2.455-2.579-4.8-1.731-3.327-3.783-4.31a7.5,7.5,0,0,0-3.68-.539,10.4,10.4,0,0,0-7.054,3.879A12.7,12.7,0,0,0,410.948,248.627Z" transform="translate(-382.92 -210.88)" fill="#eb5b1a" fill-rule="evenodd"/>
+      </g>
+      <path id="Luz_franja" data-name="Luz franja" d="M460.731,256.2c-.522-3.643,4.832-7.133,7.156-6.034a1.891,1.891,0,0,1,1.125,1.4c.111,1.43-2.528,2.344-3.272,4.31a6.384,6.384,0,0,0,.409,4.741C463.146,260.162,461.023,258.246,460.731,256.2Z" transform="translate(-427.877 -224.66)" fill="#f97b43" fill-rule="evenodd" opacity="0.32" style="mix-blend-mode: screen;isolation: isolate"/>
+      <path id="Sombra_Cabelo_D-2" data-name="Sombra Cabelo D" d="M565.662,260.186c-.053,4.59-1.093,5.343,1.278,8.615s6.446,2.352,8.2,4.473c1.668,2.012,1.711,5.329.614,9.482a11.8,11.8,0,0,0,1.022-6.465,12.525,12.525,0,0,0-3.167-5.97c-1.283-1.248-1.227-.6-4.085-3.266S568.414,263.906,565.662,260.186Z" transform="translate(-521.945 -233.541)" fill="#d54900" fill-rule="evenodd"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Sombra_cabelo_D)" style="mix-blend-mode: multiply;isolation: isolate">
+        <path id="Sombra_cabelo_D-3" data-name="Sombra cabelo D" d="M410.1,248.48c-.54-5.576.785-9.187,3.849-11.687a9.483,9.483,0,0,1,8.778-2,12.771,12.771,0,0,0-8.281,3.448C411.693,240.817,410.613,247.451,410.1,248.48Z" transform="translate(-382.11 -210.79)" fill="#ca2f0a" fill-rule="evenodd" opacity="0.5"/>
+      </g>
+    </g>
+    <g id="Corpo" transform="translate(22.602 58.794)">
+      <g id="Estampa" transform="translate(10.968 14.174)" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="P" d="M552.662,706.152l-.307-1.939a1.633,1.633,0,0,1,.818-1.616,1.425,1.425,0,0,1,1.942.862,1.347,1.347,0,0,1-.511,1.293,1.27,1.27,0,0,1-1.125.216q.1.539.2,1.077a.573.573,0,0,1-.307.431A.58.58,0,0,1,552.662,706.152Zm.511-2.586a.762.762,0,0,1,1.125-.216.525.525,0,0,1,.2.431.791.791,0,0,1-1.125.431A.616.616,0,0,1,553.173,703.567Z" transform="translate(-543.767 -701.57)" fill="#fff" fill-rule="evenodd"/>
+        <path id="I" d="M521.963,716.293l.818,2.047a.617.617,0,0,0,.818.431.661.661,0,0,0,.307-.754l-.716-2.047a.66.66,0,0,0-.434-.537.613.613,0,0,0-.649.171A.7.7,0,0,0,521.963,716.293Z" transform="translate(-516.442 -713.111)" fill="#fff" fill-rule="evenodd"/>
+        <path id="C" d="M480.586,727.347a.874.874,0,0,0-.818.431.948.948,0,0,0,0,.97.736.736,0,0,0,.409.323c.368.1.849-.168,1.125-.754.173-.107.385-.193.511-.107.176.12.188.578-.1,1.185a2.134,2.134,0,0,1-2.556.754,1.6,1.6,0,0,1-.613-.754,1.962,1.962,0,0,1,.1-1.83,1.756,1.756,0,0,1,1.535-.864.4.4,0,0,1,.394.19A.454.454,0,0,1,480.586,727.347Z" transform="translate(-477.314 -723.195)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Logo_inferior_" data-name="Logo inferior " d="M497.37,733.754a6.366,6.366,0,0,1,.2,2.155,14.85,14.85,0,0,1-10.223,1.832.2.2,0,0,1-.145-.063.219.219,0,0,1-.059-.153.188.188,0,0,1,.2-.107,15.872,15.872,0,0,0,2.965-.323A16.876,16.876,0,0,0,497.37,733.754Z" transform="translate(-485.204 -729.495)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Logo_Superior" data-name="Logo Superior" d="M468.072,696.93l.92,1.185a14.619,14.619,0,0,1,6.85-3.34,13.4,13.4,0,0,1,2.249-.216.108.108,0,0,0,0-.215,11.208,11.208,0,0,0-3.578-.216A11.9,11.9,0,0,0,468.072,696.93Z" transform="translate(-468.072 -694.072)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Sombras_blusa" data-name="Sombras blusa" transform="translate(1.534 0.223)">
+        <path id="Forma_3" data-name="Forma 3" d="M583.313,774.387c-.906,5.517-.413,6.93-3.919,11.137,2.4-1.56,1.625-.5,2.978-3.1a16.707,16.707,0,0,0,1.757-5.242C583.891,776.138,583.551,775.428,583.313,774.387Z" transform="translate(-556.172 -751.392)" fill="#f24e3e" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Forma_1" data-name="Forma 1" d="M466.043,639.984c.084-.118,2.414,2.347,5.112,1.832,2.63-.5,3.964-3.534,4.089-3.448s-1.015,3.836-3.885,4.418C468.385,643.389,465.951,640.113,466.043,639.984Z" transform="translate(-456.814 -630.395)" fill="#f24e3e" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Forma_4" data-name="Forma 4" d="M373.884,700.639c-.192-1.312,1.94-.674,2.315-1.471a13.692,13.692,0,0,0,1.1-4.568l-1.636,10.452a11.989,11.989,0,0,1-.8-1.6A11.69,11.69,0,0,1,373.884,700.639Z" transform="translate(-373.872 -678.594)" fill="#d92a19" fill-rule="evenodd" opacity="0.4" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Forma_6" data-name="Forma 6" d="M624.309,578.322l-1.636-2.155,6.543-12.067c-.911,2.2-1.786,4.4-2.658,6.68a46.637,46.637,0,0,0-1.84,5.711C624.567,577.1,624.433,577.7,624.309,578.322Z" transform="translate(-597.495 -564.1)" fill="#f24e3e" fill-rule="evenodd" opacity="0.56" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+      <g id="Crachá-2" data-name="Crachá" transform="translate(9.636 6.643)">
+        <g transform="matrix(1, 0, 0, 1, -32.24, -65.44)" filter="url(#Fita_E)">
+          <path id="Fita_E-2" data-name="Fita E" d="M456.532,639.68a9.71,9.71,0,0,0,.818,5.5c2.124,4.243,7.68,4.828,10.735,7.973a17.1,17.1,0,0,1,4.294,9.051l-.307.862a16.894,16.894,0,0,0-4.6-8.512,32.8,32.8,0,0,0-6.134-3.879c-2.027-1.07-3.849-2-5.112-4.2a10.69,10.69,0,0,1-1.125-6.68.849.849,0,0,1,.92-.539A.8.8,0,0,1,456.532,639.68Z" transform="translate(-422.76 -572.15)" fill="#2e2d36" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.24, -65.44)" filter="url(#Fita_D)">
+          <path id="Fita_D-2" data-name="Fita D" d="M546.205,625.033a23.576,23.576,0,0,0,2.965,6.141c1.19,1.74,3.328,3.513,4.5,6.034,1.517,3.267,1.481,7.127.307,11.313a14.477,14.477,0,0,0,1.329-3.556,15.6,15.6,0,0,0-.2-7.542c-1.142-4.194-3.87-6.707-6.85-11.1-.527-.777-1.03-1.554-1.533-2.37a.577.577,0,0,0-.613.107A.717.717,0,0,0,546.205,625.033Z" transform="translate(-504.46 -558.47)" fill="#2e2d36" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.24, -65.44)" filter="url(#Crachá)">
+          <path id="Crachá-3" data-name="Crachá" d="M602.6,848.171a9.892,9.892,0,0,1,2.147-2.8,9.365,9.365,0,0,1,1.636-1.185,19.059,19.059,0,0,1,5.827,7,11.942,11.942,0,0,1-3.578,3.987,19.933,19.933,0,0,1-6.032-7Z" transform="translate(-555.33 -755.1)" fill="#bebebe" fill-rule="evenodd"/>
+        </g>
+        <path id="Crachá_copiar" data-name="Crachá copiar" d="M614.043,858.618a7.7,7.7,0,0,1,1.672-2.181,7.284,7.284,0,0,1,1.274-.923,14.84,14.84,0,0,1,4.538,5.453,9.3,9.3,0,0,1-2.786,3.1,15.519,15.519,0,0,1-4.7-5.453Z" transform="translate(-597.846 -830.656)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Foto" d="M624.681,868.424l2.147-2.155,2.045,2.047-2.249,2.263Z" transform="translate(-607.401 -840.257)" fill="#f24e3e" fill-rule="evenodd"/>
+      </g>
+      <g id="Braço_E-2" data-name="Braço E">
+        <path id="Dedão" d="M415.111,609.634c-.182-.766-.384-1.511-.613-2.263a37.311,37.311,0,0,0-1.329-3.663l-.2-1.4c-.182-.709-.537-1.1-.818-1.077-.308.026-.54.555-.613.97-.15.84.349,1.282.2,2.155-.043.258-.154.429-.2.647C411.234,606.3,412.814,607.956,415.111,609.634Z" transform="translate(-406.29 -597.02)" fill="#f1804a" fill-rule="evenodd"/>
+        <path id="Path_4208" data-name="Path 4208" d="M5.678,25.441s-1.2,1.85-2.579.826a24.78,24.78,0,0,0,.3-2.561Z" transform="translate(-1.595 0.04)" fill="#631205"/>
+        <path id="Path_4207" data-name="Path 4207" d="M5.174,31.4a29.409,29.409,0,0,1-1.6-8.512c.071-3.771,5-.377,5-.377l1.5,6.109Z" transform="translate(-1.62 0.04)" fill="#ebac82"/>
+        <g transform="matrix(1, 0, 0, 1, -22.6, -58.79)" filter="url(#Manga)">
+          <path id="Manga-2" data-name="Manga" d="M313.129,662.77a13.088,13.088,0,0,1,5.692-1.4,13.243,13.243,0,0,1,1.409.063,11.09,11.09,0,0,0-1.285-7.609c-.92-1.5-2.285-3.127-3.65-2.917a3.472,3.472,0,0,0-1.671,1.332,6.573,6.573,0,0,0-1.237,3.044,10.121,10.121,0,0,0,.247,3.678A27.1,27.1,0,0,1,313.129,662.77Z" transform="translate(-288.98 -577.64)" fill="#f24e3e" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -22.6, -58.79)" filter="url(#Braço_E)">
+          <path id="Braço_E-3" data-name="Braço E" d="M346.338,563.1c.12.487,4.663,4.55,5.521,12.175s-2.287,17.13-2.088,18.324,1.156,3.656,2.8,3.656,3.5-2.335,3.987-5.064-.589-12.727-.613-13.684.741-2.074.613-3.448-.688-1.4-1.125-2.047a15.923,15.923,0,0,0-1.636-1.939c-1.658-1.617-5.218-7.039-5.968-7.973s-1.2-.814-1.393-.647C346.288,562.587,346.219,562.617,346.338,563.1Z" transform="translate(-323.68 -503.55)" fill="#f5b387" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

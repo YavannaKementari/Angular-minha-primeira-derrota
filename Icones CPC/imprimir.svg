@@ -1,0 +1,6 @@
+<svg id="icone_impressora" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safearea" data-name="icon+safearea">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <path id="Icon_awesome-print" data-name="Icon awesome-print" d="M14,6V2.414a1,1,0,0,0-.293-.707L12.293.293A1,1,0,0,0,11.586,0H3A1,1,0,0,0,2,1V6A2,2,0,0,0,0,8v3.5a.5.5,0,0,0,.5.5H2v3a1,1,0,0,0,1,1H13a1,1,0,0,0,1-1V12h1.5a.5.5,0,0,0,.5-.5V8A2,2,0,0,0,14,6Zm-2,8H4V11h8Zm0-7H4V2h6V3.5a.5.5,0,0,0,.5.5H12Zm1.5,2.25a.75.75,0,1,1,.75-.75A.75.75,0,0,1,13.5,9.25Z" transform="translate(4 4)" fill="#f24e3e"/>
+  </g>
+</svg>

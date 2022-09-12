@@ -1,0 +1,11 @@
+<svg id="Icone_ajuda_menu" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icone_safe_area" data-name="icone+safe area">
+    <g id="icone_ajuda_menu-2" data-name="icone_ajuda menu" transform="translate(-1274 20451)">
+      <path id="Forma_21_copiar_10" data-name="Forma 21 copiar 10" d="M38.227,23.763a8.156,8.156,0,0,0-8.9,7.445,8,8,0,1,0,8.9-7.445Z" transform="translate(1248.683 -20470.719)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_21_copiar_12" data-name="Forma 21 copiar 12" d="M80.164,66.524a6.525,6.525,0,1,0,5.754,5.846A6.649,6.649,0,0,0,80.164,66.524Z" transform="translate(1206.578 -20512.01)" fill="#e6e6e6" fill-rule="evenodd"/>
+      <path id="_" data-name="?" d="M169.62,112.851a1.455,1.455,0,0,1,.425-.662,1.3,1.3,0,0,1,.992-.339,1.137,1.137,0,0,1,.6.261.864.864,0,0,1,.342.566.923.923,0,0,1-.171.566,2.125,2.125,0,0,1-.513.522,2.951,2.951,0,0,0-.555.609,4.329,4.329,0,0,0-.384.74,1.611,1.611,0,0,0-.171.87.823.823,0,0,0,.214.479.571.571,0,0,0,.982-.261,1.32,1.32,0,0,0,0-.435,1.244,1.244,0,0,1,.513-.827,8.626,8.626,0,0,0,.769-.74,2.37,2.37,0,0,0,.555-1.175,2.085,2.085,0,0,0-.171-1.088,2.255,2.255,0,0,0-.982-1.044,2.434,2.434,0,0,0-1.837-.218,2.541,2.541,0,0,0-1.324.914,1.52,1.52,0,0,0-.384,1.044c.022.112.118.488.427.566A.642.642,0,0,0,169.62,112.851Z" transform="translate(1115.131 -20553.424)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Forma_46" data-name="Forma 46" d="M238.788,370.961a.613.613,0,0,1,.6-.653.61.61,0,1,1-.6.653Z" transform="translate(1046.568 -20806.689)" fill="#f24e3e" fill-rule="evenodd"/>
+    </g>
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+  </g>
+</svg>

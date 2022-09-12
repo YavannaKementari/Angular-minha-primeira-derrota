@@ -1,0 +1,10 @@
+<svg id="Alerta" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Circulos" transform="translate(0 0)">
+    <path id="círculo_externo" data-name="círculo externo" d="M64.957,23.9C47.767,22,30.488,35.339,29.374,53.678,28.226,72.584,44.748,88.769,63.22,87.665c17.586-1.051,31.588-17.451,29.97-35.087C91.8,37.441,79.284,25.475,64.957,23.9Z" transform="translate(-29.317 -23.718)" fill="#bebebe" fill-rule="evenodd"/>
+    <path id="Circulo_iterno" data-name="Circulo iterno" d="M101.955,66.634c-14.014-1.543-28.1,9.328-29.009,24.279-.936,15.414,12.534,28.609,27.593,27.708,14.337-.857,25.753-14.227,24.433-28.605A26.359,26.359,0,0,0,101.955,66.634Z" transform="translate(-66.989 -60.577)" fill="#e6e6e6" fill-rule="evenodd"/>
+  </g>
+  <g id="Exclamação" transform="translate(23.447 10.956)">
+    <path id="Forma_59" data-name="Forma 59" d="M209.779,133.056a40.788,40.788,0,0,1-7.46-17.966c-1.058-6.734,3.828-12.053,8.274-12.1,4.379-.043,9.3,5.024,8.546,11.681a41.182,41.182,0,0,1-7.46,18.381,1.295,1.295,0,0,1-1.9,0Z" transform="translate(-202.173 -102.994)" fill="#f24e3e" fill-rule="evenodd"/>
+    <path id="Forma_60" data-name="Forma 60" d="M235.78,335.521a4.766,4.766,0,1,0-.543,9.514,4.875,4.875,0,0,0,4.758-5.4A4.765,4.765,0,0,0,235.78,335.521Z" transform="translate(-226.783 -303.37)" fill="#f24e3e" fill-rule="evenodd"/>
+  </g>
+</svg>

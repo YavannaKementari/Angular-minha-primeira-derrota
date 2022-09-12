@@ -1,0 +1,12 @@
+<svg id="icone_menu_Erro" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_5337" data-name="Group 5337">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <g id="icone_x" data-name="icone+x" transform="translate(-1436 20413)">
+      <g id="Ellipse_356" data-name="Ellipse 356" transform="translate(1440 -20409)" fill="#e6e6e6" stroke="#bebebe" stroke-width="1.5">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.25" fill="none"/>
+      </g>
+      <path id="Union_10" data-name="Union 10" d="M3155.766-5884.7a1,1,0,0,1-.124-1.409l2.033-2.422-2.031-2.421a1,1,0,0,1,.123-1.41,1,1,0,0,1,1.409.125l1.8,2.151,1.805-2.151a1,1,0,0,1,1.408-.125,1,1,0,0,1,.124,1.41l-2.032,2.421,2.032,2.422a1,1,0,0,1-.124,1.408,1,1,0,0,1-1.408-.123l-1.8-2.151-1.8,2.151a1,1,0,0,1-.768.358A.993.993,0,0,1,3155.766-5884.7Z" transform="translate(-1711 -14512.473)" fill="#f14e3d"/>
+    </g>
+  </g>
+</svg>

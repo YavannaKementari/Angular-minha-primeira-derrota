@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_4153" data-name="Path 4153" d="M12.876,9.428H7.293v8.56H-.124v-16h13Z" fill="none" stroke="#f24e3e" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icone_registrado" data-name="icone registrado" transform="translate(-6 22)">
+    <rect id="Rectangle_1656" data-name="Rectangle 1656" width="32" height="32" rx="8" transform="translate(6 -22)" fill="#f24e3e"/>
+    <g id="icone_registradora_CIP" data-name="icone_registradora CIP" transform="translate(10 -18)">
+      <g id="iocn_safe_area" data-name="iocn+safe area" transform="translate(-5 -11)">
+        <g id="icone_registradora_CIP-2" data-name="icone registradora CIP" transform="translate(9.124 15)">
+          <g id="Mask_Group_3679" data-name="Mask Group 3679" clip-path="url(#clip-path)">
+            <g id="Rectangle_2652" data-name="Rectangle 2652" transform="translate(-0.093 2)" fill="#f24e3e" stroke="#f7fcff" stroke-width="1">
+              <rect width="13" height="16" rx="2" stroke="none"/>
+              <rect x="0.5" y="0.5" width="12" height="15" rx="1.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_3338" data-name="Group 3338" transform="translate(2.684 6.441)">
+            <path id="Path_58" data-name="Path 58" d="M9.321,14.026h8v1h-8Z" transform="translate(-9.321 -14.026)" fill="#f7fcff"/>
+          </g>
+          <g id="Group_3339" data-name="Group 3339" transform="translate(2.684 8.633)">
+            <path id="Path_59" data-name="Path 59" d="M9.321,17.494h8v1h-8Z" transform="translate(-9.321 -17.494)" fill="#f7fcff"/>
+          </g>
+          <g id="Group_3340" data-name="Group 3340" transform="translate(2.684 10.824)">
+            <path id="Path_60" data-name="Path 60" d="M9.321,19.963h8v1h-8Z" transform="translate(-9.321 -19.963)" fill="#f7fcff"/>
+          </g>
+          <g id="Group_4996" data-name="Group 4996" transform="translate(2.684 13)">
+            <path id="Path_60-2" data-name="Path 60" d="M9.321,19.963h4v1h-4Z" transform="translate(-9.321 -19.963)" fill="#f7fcff"/>
+          </g>
+          <g id="Union_4" data-name="Union 4" transform="translate(3.459 -1)" fill="#f24e3e">
+            <path d="M 5.999800205230713 5.749599933624268 L 0.5000001192092896 5.749599933624268 L 0.5000001192092896 2.499799966812134 L 1.201500058174133 2.499799966812134 L 1.701500058174133 2.499799966812134 L 1.701500058174133 1.999799966812134 C 1.701500058174133 1.172809958457947 2.37431001663208 0.4999999701976776 3.201300144195557 0.4999999701976776 C 4.028290271759033 0.4999999701976776 4.701099872589111 1.172809958457947 4.701099872589111 1.999799966812134 L 4.701099872589111 2.499799966812134 L 5.201099872589111 2.499799966812134 L 5.999800205230713 2.499799966812134 L 5.999800205230713 5.749599933624268 Z" stroke="none"/>
+            <path d="M 5.499800205230713 5.249599933624268 L 5.499800205230713 2.999799966812134 L 4.201099872589111 2.999799966812134 L 4.201099872589111 1.999799966812134 C 4.201099872589111 1.448509931564331 3.752590179443359 0.9999999403953552 3.201300144195557 0.9999999403953552 C 2.650010108947754 0.9999999403953552 2.201500177383423 1.448509931564331 2.201500177383423 1.999799966812134 L 2.201500177383423 2.999799966812134 L 1.00000011920929 2.999799966812134 L 1.00000011920929 5.249599933624268 L 5.499800205230713 5.249599933624268 M 6.499800205230713 6.249599933624268 L 1.026153597649682e-07 6.249599933624268 L 1.026153597649682e-07 1.999799966812134 L 1.201500058174133 1.999799966812134 C 1.201500058174133 0.8954999446868896 2.097000122070312 -3.318786667705353e-08 3.201300144195557 -3.318786667705353e-08 C 4.305600166320801 -3.318786667705353e-08 5.201099872589111 0.8954999446868896 5.201099872589111 1.999799966812134 L 6.499800205230713 1.999799966812134 L 6.499800205230713 6.249599933624268 Z" stroke="none" fill="#f7fcff"/>
+          </g>
+          <path id="Path_4154" data-name="Path 4154" d="M4090.249,2530l1.249,2.77v5.538s-.02.692-.625.692h-1.249a.648.648,0,0,1-.625-.692c.01-.671,0-5.538,0-5.538Z" transform="translate(1355.672 4634.219) rotate(-138)" fill="#f7fcff"/>
+        </g>
+        <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(5 11)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

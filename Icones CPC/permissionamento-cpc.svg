@@ -1,0 +1,11 @@
+<svg id="icone_menu_permissionamento" data-name="icone menu_permissionamento" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+safe area" transform="translate(-39 -77)">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(39 77)" fill="none"/>
+    <g id="icone_permissionamento" transform="translate(-30 20)">
+      <path id="Forma_19" data-name="Forma 19" d="M53.963,28.345a4.576,4.576,0,0,0,2.995-.69A3.826,3.826,0,0,0,58.1,26.483a17.928,17.928,0,0,1,8.265,0,2.592,2.592,0,0,0,.758,1.172,3.418,3.418,0,0,0,2.843.69C69.867,36.726,65.045,42.058,61.7,42,58.381,41.941,53.868,36.549,53.963,28.345Z" transform="translate(19.039 35)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_19_copiar" data-name="Forma 19 copiar" d="M96.177,74.258a3.662,3.662,0,0,0,2.4-.552,3.062,3.062,0,0,0,.91-.938,14.344,14.344,0,0,1,6.613,0,2.074,2.074,0,0,0,.607.938,2.735,2.735,0,0,0,2.275.552c-.075,6.706-3.934,10.972-6.613,10.925C99.712,85.137,96.1,80.822,96.177,74.258Z" transform="translate(-21.575 -9.783)" fill="#e6e6e6" fill-rule="evenodd"/>
+      <path id="Forma_13_copiar" data-name="Forma 13 copiar" d="M155.15,147.074l1.041.8.822.648.384-.5,3.178-4.55a1.064,1.064,0,0,1,1.1-.1.871.871,0,0,1,.329,1.211l-3.78,5.332a1.343,1.343,0,0,1-.877.5,1.4,1.4,0,0,1-.877-.249A25.191,25.191,0,0,1,154,148.32a.784.784,0,0,1-.164-1.1A.986.986,0,0,1,155.15,147.074Z" transform="translate(-76.899 -78.22)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Forma_20" data-name="Forma 20" d="M261.226,275.136a8.872,8.872,0,0,0,1.8-1.292,8.187,8.187,0,0,0,2.121-3.194.471.471,0,0,1,.489-.077.393.393,0,0,1,.139.575,9.217,9.217,0,0,1-2.223,3.184,9.885,9.885,0,0,1-1.653,1.243c-.492.124-.825.076-.885-.054C260.96,275.411,261.1,275.245,261.226,275.136Z" transform="translate(-180.15 -201.103)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

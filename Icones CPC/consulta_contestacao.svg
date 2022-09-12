@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.725" height="31.858" viewBox="0 0 38.725 31.858">
+  <defs>
+    <filter id="mão_indicador" x="0" y="0" width="38.725" height="31.858" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Dedão" x="12.407" y="16.607" width="8.954" height="6.252" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icone_menu_consulta_contestação" data-name="icone_menu_consulta contestação" transform="translate(8 5.111)">
+    <g id="icon_safearea" data-name="icon+safearea">
+      <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+      <g id="icone_menu_consulta_contestação-2" data-name="icone_menu_consulta contestação" transform="translate(-1332 20393)">
+        <path id="Dedo_2" data-name="Dedo 2" d="M196.334,240.341c-.053,1.585-.131,3.527-.174,4.821a.913.913,0,0,0,.819.96c.418,0,.767-.445.8-1.024v-1.171l-.026-2.049a.879.879,0,0,0,.026-1.39C197.426,240.1,196.334,240.341,196.334,240.341Z" transform="translate(1144.458 -20622.064)" fill="#bebebe" fill-rule="evenodd"/>
+        <path id="Dedo_2-2" data-name="Dedo 2" d="M196.29,240.341c-.04,1.585-.1,3.527-.131,4.821.027.579.3.96.616.96s.577-.445.6-1.024v-1.171q-.01-1.024-.02-2.049c.414-.567.861-1.248.792-1.5-.055-.2-.421-.067-.772.11Z" transform="translate(1146.203 -20622.107)" fill="#bebebe" fill-rule="evenodd"/>
+        <path id="Dedo_1" data-name="Dedo 1" d="M129.783,321.924l.034,1.939c.047.49.127,1.044.911,1.028a1.067,1.067,0,0,0,1.053-1.093c.008-.569-.008-.4-.011-1s.006-1,0-1.422Z" transform="translate(1208.831 -20700.836)" fill="#bebebe" fill-rule="evenodd"/>
+        <g transform="matrix(1, 0, 0, 1, 1324, -20398.11)" filter="url(#mão_indicador)">
+          <path id="mão_indicador-2" data-name="mão+indicador" d="M12.506,131.82a3.694,3.694,0,0,1-1.224.732,4.562,4.562,0,0,1-2.1.293c-.886-.1-1.369-.453-2.066-.219a1.7,1.7,0,0,0-.918.732,1.284,1.284,0,0,0-.153,1.134c.29.56,1.25.6,2.066.622.877.019,1.787.034,2.6.037a6.466,6.466,0,0,0,.995.659,4.988,4.988,0,0,0,.727.329,3.951,3.951,0,0,0,2.434-.037,10.256,10.256,0,0,0,1.354-.732,3.433,3.433,0,0,0,.995-.54,2.468,2.468,0,0,0,.31-2.68,3.016,3.016,0,0,0-1.3-1.3,34.542,34.542,0,0,0-6.084-2.392,9.6,9.6,0,0,0-3.6.915l-.651.7L3.171,133.8a.926.926,0,0,0,.077,1.034,1.107,1.107,0,0,0,1.226.21,1.289,1.289,0,0,0,.534-.439c.316-.46.642-.783.957-1.244a16.285,16.285,0,0,1,1.143-1.244c.478-.575.811-1.064,1.076-.988.331.095.191.994.727,1.427a1.788,1.788,0,0,0,.957.286A4.329,4.329,0,0,0,12.506,131.82Z" transform="translate(8.95 -114.45)" fill="#bebebe" fill-rule="evenodd"/>
+        </g>
+        <g id="caneta" transform="translate(1336.886 -20387)">
+          <path id="Forma_39" data-name="Forma 39" d="M32.6,39.057l6.811-9.439a.524.524,0,0,1,.727,0l1.186.841a.389.389,0,0,1,.038.585c-.309.379-4.992,6.806-6.887,9.4L32.6,41.471a.623.623,0,0,1-.421-.22A.552.552,0,0,1,32.067,41Z" transform="translate(-32.067 -29.471)" fill="#f24e3e" fill-rule="evenodd"/>
+          <path id="Forma_40" data-name="Forma 40" d="M237.521,56.631a3.139,3.139,0,0,1,.918.366,3.025,3.025,0,0,1,1.033,1.024l.612-.768a2.464,2.464,0,0,0-.995-1.134,2.561,2.561,0,0,0-.918-.329Z" transform="translate(-231.246 -55.022)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 1324, -20398.11)" filter="url(#Dedão)">
+          <path id="Dedão-2" data-name="Dedão" d="M101.453,269.332c-.464-.032-1.411-.439-2.066-.219a1.7,1.7,0,0,0-.918.732,1.284,1.284,0,0,0-.153,1.134c.29.56,1.25.6,2.066.622.877.019,1.787.034,2.6.037a6.466,6.466,0,0,0,.995.659c.261.14.713-3.036-1.837-2.97A6.824,6.824,0,0,1,101.453,269.332Z" transform="translate(-83.32 -250.94)" fill="#bebebe" fill-rule="evenodd"/>
+        </g>
+        <g id="camisa" transform="translate(1348.785 -20382.645)">
+          <path id="Subtraction_7" data-name="Subtraction 7" d="M.306,6.915h0Q.227,5.294.148,3.676l-.01-.2Q.075,2.19.012.907L0,.66,2.832,0a15.99,15.99,0,0,1,.383,3.439,16.057,16.057,0,0,1-.306,3.146l-2.6.33ZM1.621,5.408a.529.529,0,0,0-.367.157.477.477,0,0,0-.147.343.512.512,0,0,0,.46.484.309.309,0,0,0,.037,0,.493.493,0,0,0,.088-.979A.435.435,0,0,0,1.621,5.408Z" transform="translate(0)" fill="#f24e3e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

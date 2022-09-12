@@ -1,0 +1,15 @@
+<svg id="Icone_menu_consulta" data-name="Icone menu_consulta" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+safe area" transform="translate(-39 -77)">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(39 77)" fill="none"/>
+    <g id="icone_consulta" transform="translate(-96 36)">
+      <rect id="Rectangle_2662" data-name="Rectangle 2662" width="16" height="8.889" rx="1" transform="translate(139 51.333)" fill="#e6e6e6"/>
+      <path id="Forma_34" data-name="Forma 34" d="M77.876,410.464H66.3A.423.423,0,0,1,65.93,410a.416.416,0,0,1,.369-.339H77.814a.417.417,0,1,1,.062.8Z" transform="translate(74.852 -351.784)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_34_copiar" data-name="Forma 34 copiar" d="M283.356,367.68h-5.022a.442.442,0,0,1-.335-.493.432.432,0,0,1,.365-.341h4.93a.468.468,0,0,1,.548.432A.463.463,0,0,1,283.356,367.68Z" transform="translate(-137.216 -310.295)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_33" data-name="Forma 33" d="M57.754,227.7a.747.747,0,0,0-.521-.228H55.057a.817.817,0,0,0-.662.775v2.141a.589.589,0,0,0,.095.365.64.64,0,0,0,.426.274h2.508a.5.5,0,0,0,.331-.091.485.485,0,0,0,.189-.456v-2.233A.692.692,0,0,0,57.754,227.7Z" transform="translate(95.274 -175.227)" fill="#bebebe" fill-rule="evenodd"/>
+      <g id="lupa" transform="translate(139 46)">
+        <path id="Forma_32" data-name="Forma 32" d="M24.159,229l5.914,4.861a1.519,1.519,0,1,1-1.758,2.43l-6.042-5.021Z" transform="translate(-14.858 -222.474)" fill="#f24e3e" fill-rule="evenodd"/>
+        <path id="Forma_21_copiar_11" data-name="Forma 21 copiar 11" d="M203.169,24.938a5.191,5.191,0,1,0,5.194,5.358A5.271,5.271,0,0,0,203.169,24.938Zm0,2.288a3.038,3.038,0,1,0,3.04,3.136A3.085,3.085,0,0,0,203.171,27.226Z" transform="translate(-197.982 -24.938)" fill="#f24e3e" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

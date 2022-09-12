@@ -1,0 +1,14 @@
+<svg id="icone_menu_participantes" data-name="icone menu_participantes" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+safe area" transform="translate(-66 -14)">
+    <g id="Group_4997" data-name="Group 4997">
+      <path id="Forma_1" data-name="Forma 1" d="M55.517,25.52a.6.6,0,0,1,.265-.416.672.672,0,0,1,.3-.1H67.915a.636.636,0,0,1,.569.52L70,40.649a.461.461,0,0,1-.493.347H54.531a.515.515,0,0,1-.379-.1A.429.429,0,0,1,54,40.649Z" transform="translate(16 -7)" fill="#e6e6e6" fill-rule="evenodd"/>
+      <path id="Forma_6_copiar" data-name="Forma 6 copiar" d="M205.365,216,204,223.911l2.237,1.457,2.389-1.423L207.109,216Z" transform="translate(-128.313 -191.373)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Forma_15" data-name="Forma 15" d="M226,240.013l3.791,5.17-.493-2.776L226.379,238Z" transform="translate(-149.479 -212.609)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Forma_5" data-name="Forma 5" d="M195.725,103.618l-2.957,3.5-2.768-3.5a3.327,3.327,0,0,1,5.725,0Z" transform="translate(-114.844 -81.315)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Forma_2" data-name="Forma 2" d="M104,25.035a9.065,9.065,0,0,0,12.209,0c-2.042-.023-4.062-.035-6.1-.035S106.042,25.011,104,25.035Z" transform="translate(-32.104 -7)" fill="#9e9e9e" fill-rule="evenodd"/>
+      <path id="Forma_3_copiar_3" data-name="Forma 3 copiar 3" d="M83.8,27a9.335,9.335,0,0,0,3.147,1.8,9.9,9.9,0,0,0,3,.52,6.245,6.245,0,0,0-2.73,4.927L83,31.893l.417-4.476a.548.548,0,0,1,.19-.312A.6.6,0,0,1,83.8,27Z" transform="translate(-11.9 -8.931)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_3_copiar_4" data-name="Forma 3 copiar 4" d="M274.028,26a9.708,9.708,0,0,1-3.147,1.8A10.274,10.274,0,0,1,268,28.36a5.89,5.89,0,0,1,2.616,4.893l4.209-2.36-.417-4.476a.548.548,0,0,0-.19-.312A.6.6,0,0,0,274.028,26Z" transform="translate(-189.886 -7.965)" fill="#bebebe" fill-rule="evenodd"/>
+    </g>
+    <rect id="Rectangle_2655" data-name="Rectangle 2655" width="24" height="24" transform="translate(66 14)" fill="none"/>
+  </g>
+</svg>

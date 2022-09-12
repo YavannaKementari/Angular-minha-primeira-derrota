@@ -1,0 +1,71 @@
+<svg id="icone_menu_credenciadores" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="Rectangle_2814">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2815">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="entrada_cartão" x="5.25" y="4.031" width="9.5" height="3.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icone_safearea" data-name="icone+safearea">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <g id="icone_credenciadores" data-name="icone credenciadores" transform="translate(-1342 20404)">
+      <g id="cartão_direita" data-name="cartão direita" transform="translate(2.5 1)">
+        <g data-type="innerShadowGroup">
+          <path id="Rectangle_2814-2" data-name="Rectangle 2814" d="M0,0H3A1,1,0,0,1,4,1V5A1,1,0,0,1,3,6H0A0,0,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(1355.5 -20397)" fill="#f24e3e"/>
+          <g transform="matrix(1, 0, 0, 1, 1339.5, -20405)" filter="url(#Rectangle_2814)">
+            <path id="Rectangle_2814-3" data-name="Rectangle 2814" d="M0,0H3A1,1,0,0,1,4,1V5A1,1,0,0,1,3,6H0A0,0,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(16 8)" fill="#fff"/>
+          </g>
+        </g>
+        <g data-type="innerShadowGroup">
+          <rect id="Rectangle_2815-2" data-name="Rectangle 2815" width="4" height="1.5" transform="translate(1355.5 -20396)" fill="#fff"/>
+          <g transform="matrix(1, 0, 0, 1, 1339.5, -20405)" filter="url(#Rectangle_2815)">
+            <rect id="Rectangle_2815-3" data-name="Rectangle 2815" width="4" height="1.5" transform="translate(16 9)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="fundo" width="12" height="16" rx="1" transform="translate(1346 -20399)" fill="#e6e6e6"/>
+      <g id="tela_teclado" data-name="tela+teclado">
+        <rect id="tela" width="10" height="4" rx="0.5" transform="translate(1347 -20396)" fill="#fff"/>
+        <g id="teclado">
+          <rect id="Rectangle_2820" data-name="Rectangle 2820" width="3" height="2" rx="0.2" transform="translate(1354 -20391.5)" fill="#bebebe"/>
+          <rect id="Rectangle_2824" data-name="Rectangle 2824" width="3" height="2" rx="0.2" transform="translate(1354 -20389)" fill="#bebebe"/>
+          <rect id="Rectangle_2825" data-name="Rectangle 2825" width="3" height="2" rx="0.2" transform="translate(1354 -20386.5)" fill="#bebebe"/>
+          <rect id="Rectangle_2821" data-name="Rectangle 2821" width="3" height="2" rx="0.2" transform="translate(1350.5 -20391.5)" fill="#bebebe"/>
+          <rect id="Rectangle_2823" data-name="Rectangle 2823" width="3" height="2" rx="0.2" transform="translate(1350.5 -20389)" fill="#bebebe"/>
+          <rect id="Rectangle_2826" data-name="Rectangle 2826" width="3" height="2" rx="0.2" transform="translate(1350.5 -20386.5)" fill="#bebebe"/>
+          <rect id="Rectangle_2817" data-name="Rectangle 2817" width="3" height="2" rx="0.2" transform="translate(1347 -20391.5)" fill="#bebebe"/>
+          <rect id="Rectangle_2822" data-name="Rectangle 2822" width="3" height="2" rx="0.2" transform="translate(1347 -20389)" fill="#bebebe"/>
+          <rect id="Rectangle_2827" data-name="Rectangle 2827" width="3" height="2" rx="0.2" transform="translate(1347 -20386.5)" fill="#bebebe"/>
+        </g>
+      </g>
+      <g id="cartão_entrada_cartão" data-name="cartão+entrada cartão" transform="translate(-0.5)">
+        <g id="cartão">
+          <path id="Rectangle_2828" data-name="Rectangle 2828" d="M.5,0h4A.5.5,0,0,1,5,.5V4A0,0,0,0,1,5,4H0A0,0,0,0,1,0,4V.5A.5.5,0,0,1,.5,0Z" transform="translate(1350 -20401)" fill="#f24e3e"/>
+          <path id="Path_4199" data-name="Path 4199" d="M1348.124-20396.465h3" transform="translate(2.876 -3.535)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="0.5"/>
+          <path id="Path_4200" data-name="Path 4200" d="M1348.124-20396.465h3" transform="translate(2.876 -2.335)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="0.5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 1342.5, -20404)" filter="url(#entrada_cartão)">
+          <path id="entrada_cartão-2" data-name="entrada cartão" d="M1348.124-20396.465h6" transform="translate(-1341.12 20403.25)" fill="none" stroke="#a3a3a3" stroke-linecap="round" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

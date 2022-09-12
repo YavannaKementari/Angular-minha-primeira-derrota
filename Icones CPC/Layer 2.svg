@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.381" height="24" viewBox="0 0 25.381 24">
+  <defs>
+    <filter id="Path_4211" x="0" y="0.252" width="25.381" height="22.197" filterUnits="userSpaceOnUse">
+      <feOffset dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.75" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icone_trilha_de_auditoria" data-name="icone_trilha de auditoria" transform="translate(0.75)">
+    <g id="icon_safe_area" data-name="icon+safe area">
+      <rect id="Rectangle_2489" data-name="Rectangle 2489" width="24" height="24" fill="none"/>
+      <g id="Group_5356" data-name="Group 5356" transform="translate(-3.734 1.929)">
+        <g id="fundo_branco_e_azul" data-name="fundo branco e azul" transform="translate(6.234 4)">
+          <rect id="contorno_azul" data-name="contorno azul" width="20" height="12" rx="1.5" transform="translate(0 4.072)" fill="#f1f4f6" stroke="#69c" stroke-linecap="round" stroke-width="1" stroke-dasharray="2 2"/>
+        </g>
+        <g id="Card_Drag_Drop" data-name="Card_Drag&amp;Drop" transform="matrix(0.966, -0.259, 0.259, 0.966, 5.228, 4.728)">
+          <g transform="matrix(0.97, 0.26, -0.26, 0.97, -0.44, -7.01)" filter="url(#Path_4211)">
+            <path id="Path_4211-2" data-name="Path 4211" d="M1.824,0,16.142.053A1.838,1.838,0,0,1,17.972,1.88L18,11.69A1.808,1.808,0,0,1,16.186,13.5L1.868,13.457A1.838,1.838,0,0,1,.038,11.63L0,1.82A1.808,1.808,0,0,1,1.824,0Z" transform="matrix(0.97, -0.26, 0.26, 0.97, 2.24, 6.66)" fill="#fff"/>
+          </g>
+          <g id="Menu_Drag_Drop" data-name="Menu Drag &amp; Drop" transform="translate(0.005 0.005)">
+            <path id="Path_4212" data-name="Path 4212" d="M1.824,0,3.547.011l.045,13.452-1.724-.006A1.838,1.838,0,0,1,.038,11.63L0,1.82A1.808,1.808,0,0,1,1.824,0Z" transform="translate(-0.005 -0.005)" fill="#4e4e4e"/>
+            <g id="Group_5355" data-name="Group 5355" transform="translate(0.956 5.387)">
+              <path id="Icon_awesome-ellipsis-v" data-name="Icon awesome-ellipsis-v" d="M.376.913a.377.377,0,0,1,.376.375.371.371,0,0,1-.373.372A.377.377,0,0,1,0,1.286.371.371,0,0,1,.376.913ZM0,.372A.377.377,0,0,0,.376.747.371.371,0,0,0,.749.375.377.377,0,0,0,.373,0,.371.371,0,0,0,0,.372ZM.006,2.2a.377.377,0,0,0,.376.375A.371.371,0,0,0,.755,2.2a.377.377,0,0,0-.376-.375A.371.371,0,0,0,.006,2.2Z" transform="translate(1.073 0.004)" fill="#fcfcfc"/>
+              <path id="Icon_awesome-ellipsis-v-2" data-name="Icon awesome-ellipsis-v" d="M.376.913a.377.377,0,0,1,.376.375.371.371,0,0,1-.373.372A.377.377,0,0,1,0,1.286.371.371,0,0,1,.376.913ZM0,.372A.377.377,0,0,0,.376.747.371.371,0,0,0,.749.375.377.377,0,0,0,.373,0,.371.371,0,0,0,0,.372ZM.006,2.2a.377.377,0,0,0,.376.375A.371.371,0,0,0,.755,2.2a.377.377,0,0,0-.376-.375A.371.371,0,0,0,.006,2.2Z" transform="translate(0 0)" fill="#fcfcfc"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

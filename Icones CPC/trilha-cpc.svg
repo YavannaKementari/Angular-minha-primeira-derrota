@@ -1,0 +1,9 @@
+<svg id="iocne_menu_trilha_de_auditoria" data-name="iocne menu_trilha de auditoria" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+safe area" transform="translate(-105 -70)">
+    <g id="icone_trilha_de_auditoria" data-name="icone_trilha de auditoria">
+      <path id="Path_28" data-name="Path 28" d="M31.2,1.9a3.116,3.116,0,0,1,1.42.111c1.834.626,2.834,3.35,2.085,7.351l-3.949,1c-2.209-3.746-2.285-6.717-.666-7.942A3.142,3.142,0,0,1,31.2,1.9Zm.089,9.715,3.772-.96c1.052.985,1.312,2.131.843,2.955a2.132,2.132,0,0,1-1.109.923,2.838,2.838,0,0,1-2.085-.111,2.537,2.537,0,0,1-1.42-2.807Z" transform="translate(80.023 72.68)" fill="#f14e3d" fill-rule="evenodd"/>
+      <path id="Shape_670_copy" data-name="Shape 670 copy" d="M294.9,75.743a3.116,3.116,0,0,0-1.42.111c-1.834.626-2.834,3.35-2.085,7.351l3.949,1c2.209-3.746,2.285-6.717.666-7.942A3.143,3.143,0,0,0,294.9,75.743Zm-.089,9.715-3.772-.96c-1.052.985-1.312,2.131-.843,2.955a2.132,2.132,0,0,0,1.109.923,2.838,2.838,0,0,0,2.085-.111,2.537,2.537,0,0,0,1.42-2.807Z" transform="translate(-172.123 0.923)" fill="#a09c9c" fill-rule="evenodd"/>
+    </g>
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(105 70)" fill="none"/>
+  </g>
+</svg>

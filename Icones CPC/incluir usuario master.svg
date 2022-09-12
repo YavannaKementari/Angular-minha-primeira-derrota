@@ -1,0 +1,7 @@
+<svg id="icone_usuário_master" data-name="icone_usuário master" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+  <g id="icon_usuário_master" data-name="icon_usuário master" transform="translate(1 -4)">
+    <path id="Icon_awesome-user-tie" data-name="Icon awesome-user-tie" d="M7,8A4,4,0,1,0,3,4,4,4,0,0,0,7,8ZM9.994,9.019,8.5,15l-1-4.25L8.5,9h-3l1,1.75L5.5,15,4.006,9.019A4.193,4.193,0,0,0,0,13.2v1.3A1.5,1.5,0,0,0,1.5,16h11A1.5,1.5,0,0,0,14,14.5V13.2A4.193,4.193,0,0,0,9.994,9.019Z" transform="translate(4 8)" fill="#bebebe"/>
+    <path id="Icon_awesome-plus-circle" data-name="Icon awesome-plus-circle" d="M4.563.563a4,4,0,1,0,4,4A4,4,0,0,0,4.563.563ZM6.885,5.014a.194.194,0,0,1-.194.194H5.208V6.692a.194.194,0,0,1-.194.194h-.9a.194.194,0,0,1-.194-.194V5.208H2.433a.194.194,0,0,1-.194-.194v-.9a.194.194,0,0,1,.194-.194H3.917V2.433a.194.194,0,0,1,.194-.194h.9a.194.194,0,0,1,.194.194V3.917H6.692a.194.194,0,0,1,.194.194Z" transform="translate(9.438 15.438)" fill="#f24e3e"/>
+  </g>
+</svg>

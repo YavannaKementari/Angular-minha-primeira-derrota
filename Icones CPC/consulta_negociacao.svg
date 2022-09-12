@@ -1,0 +1,15 @@
+<svg id="icone_consulta_negociação" data-name="icone_consulta negociação" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icone_safearea" data-name="icone+safearea">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <g id="icone_consulta_negocição" data-name="icone_consulta negocição" transform="translate(1777.203 14506.984)">
+      <g id="mão_direita" data-name="mão direita" transform="translate(-1769.719 -14499.681)">
+        <path id="Path_4204" data-name="Path 4204" d="M-1766.46-14493.606c-.764.562-3.709,2.571-3.984,3.318s.641,1.316.916,1.407.733-.3.733-.3.641,1.257,1.568,1.309c.509.065,1.027-.591,1.027-.591a1.688,1.688,0,0,0,1.649.591c1.1-.19,2.451-1.855,2.809-2.173a1.244,1.244,0,0,1,.672-.338s.031-2.885,0-4.916a3.288,3.288,0,0,0-1.74-2.015,5.284,5.284,0,0,0-2.412-.149s2.5,1.57,2.626,2.811a2.08,2.08,0,0,1-2.1,2.083A2.342,2.342,0,0,1-1766.46-14493.606Z" transform="translate(1770.495 14497.541)" fill="#f24e3e"/>
+        <path id="Rectangle_2829" data-name="Rectangle 2829" d="M0,0H1.962a.5.5,0,0,1,.5.5v4a.5.5,0,0,1-.5.5H0A0,0,0,0,1,0,5V0A0,0,0,0,1,0,0Z" transform="translate(10.054 2.196)" fill="#f24e3e"/>
+      </g>
+      <g id="mão_esquerda" data-name="mão esquerda" transform="translate(-1773.203 -14499.984)">
+        <path id="Path_4203" data-name="Path 4203" d="M-1770.7-14490.951v-4.723a3.34,3.34,0,0,1,1.1-1.494,3.284,3.284,0,0,1,3.389-.12c.763.479,4,2.78,2.87,3.705-.867.648-1.552.083-2.4-.677s-.959-1.291-1.513-.978c-.489.418.176.874.538,1.21C-1766.989-14493.837-1770.7-14490.951-1770.7-14490.951Z" transform="translate(1773.78 14497.699)" fill="#bebebe"/>
+        <path id="Rectangle_2830" data-name="Rectangle 2830" d="M.5,0H2.462a0,0,0,0,1,0,0V5a0,0,0,0,1,0,0H.5A.5.5,0,0,1,0,4.5V.5A.5.5,0,0,1,.5,0Z" transform="translate(0 2.5)" fill="#bebebe"/>
+      </g>
+    </g>
+  </g>
+</svg>

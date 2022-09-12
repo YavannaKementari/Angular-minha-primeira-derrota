@@ -1,0 +1,50 @@
+<svg id="icone_menu_varredura" data-name="icone menu_varredura" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+ safe area" transform="translate(-39 -77)">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(39 77)" fill="none"/>
+    <g id="Icone_varredura" transform="translate(-13 3)">
+      <g id="papel" transform="translate(56 78.688)">
+        <path id="Forma_8" data-name="Forma 8" d="M83.425,24.978a.244.244,0,0,1,.144-.175.445.445,0,0,1,.144-.035c.334-.022,8.773-.007,10.766,0l4.946,4.576V39.823a.319.319,0,0,1-.192.21.476.476,0,0,1-.144.035l-15.376-.011a.393.393,0,0,1-.144-.035.244.244,0,0,1-.144-.175Z" transform="translate(-83.425 -24.756)" fill="#e4e4e4" fill-rule="evenodd"/>
+        <g id="Linha_1" data-name="Linha 1" transform="translate(1.033 0.867)">
+          <g id="_0" data-name="0" transform="translate(0 0.001)">
+            <path id="Forma_10" data-name="Forma 10" d="M109.423,51.022a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.826,1.525,1.489,1.489,0,0,1-.744,1.558,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-108.431 -50.932)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar" data-name="Forma 10 copiar" d="M124.088,68.494a1.092,1.092,0,0,1,.826.1,1.512,1.512,0,0,1,0,1.99,1.143,1.143,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C123.432,69.369,123.492,68.668,124.088,68.494Z" transform="translate(-122.807 -67.873)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <g id="_0_copiar_4" data-name="0 copiar 4" transform="translate(6.86)">
+            <path id="Forma_10-2" data-name="Forma 10" d="M275.424,50.989a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.826,1.525,1.489,1.489,0,0,1-.744,1.558,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-274.432 -50.899)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar-2" data-name="Forma 10 copiar" d="M290.089,68.461a1.091,1.091,0,0,1,.827.1,1.512,1.512,0,0,1,0,1.99,1.142,1.142,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C289.433,69.337,289.493,68.636,290.089,68.461Z" transform="translate(-288.808 -67.841)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <path id="_1" data-name="1" d="M215.56,50.927h-.5l-.62.829h.62q-.012,1.259-.025,2.519l.52,0Z" transform="translate(-210.063 -50.926)" fill="#d1d1d1" fill-rule="evenodd"/>
+        </g>
+        <g id="Linha_2" data-name="Linha 2" transform="translate(1.033 5.975)">
+          <g id="_0_copiar" data-name="0 copiar" transform="translate(0 0.001)">
+            <path id="Forma_10-3" data-name="Forma 10" d="M109.423,205.069a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.826,1.525,1.489,1.489,0,0,1-.744,1.558,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-108.431 -204.979)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar-3" data-name="Forma 10 copiar" d="M124.088,222.54a1.091,1.091,0,0,1,.826.1,1.512,1.512,0,0,1,0,1.99,1.143,1.143,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C123.432,223.416,123.492,222.715,124.088,222.54Z" transform="translate(-122.807 -221.92)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <g id="_0_copiar_5" data-name="0 copiar 5" transform="translate(6.86 0)">
+            <path id="Forma_10-4" data-name="Forma 10" d="M275.423,205.037a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.827,1.525,1.489,1.489,0,0,1-.744,1.558,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-274.431 -204.947)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar-4" data-name="Forma 10 copiar" d="M290.088,222.509a1.091,1.091,0,0,1,.827.1,1.512,1.512,0,0,1,0,1.99,1.143,1.143,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C289.432,223.385,289.492,222.684,290.088,222.509Z" transform="translate(-288.807 -221.889)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <path id="_1_copiar" data-name="1 copiar" d="M215.56,204.974h-.5l-.62.829h.62q-.012,1.259-.025,2.519l.52,0Z" transform="translate(-210.063 -204.973)" fill="#d1d1d1" fill-rule="evenodd"/>
+          <path id="_1_copiar_5" data-name="1 copiar 5" d="M381.56,204.943h-.5l-.62.829h.62q-.012,1.259-.025,2.519l.52,0Z" transform="translate(-369.203 -204.943)" fill="#d1d1d1" fill-rule="evenodd"/>
+        </g>
+        <g id="Linha_3" data-name="Linha 3" transform="translate(1.033 11.147)">
+          <g id="_0_copiar-2" data-name="0 copiar" transform="translate(0 0.001)">
+            <path id="Forma_10-5" data-name="Forma 10" d="M109.423,361.048a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.826,1.525,1.489,1.489,0,0,1-.744,1.558,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-108.431 -360.958)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar-5" data-name="Forma 10 copiar" d="M124.088,378.519a1.091,1.091,0,0,1,.826.1,1.512,1.512,0,0,1,0,1.99,1.143,1.143,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C123.432,379.4,123.492,378.694,124.088,378.519Z" transform="translate(-122.807 -377.899)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <g id="_0_copiar_5-2" data-name="0 copiar 5" transform="translate(6.86 0)">
+            <path id="Forma_10-6" data-name="Forma 10" d="M275.424,361.017a1.748,1.748,0,0,1,1.2.033,1.532,1.532,0,0,1,.826,1.525,1.489,1.489,0,0,1-.744,1.559,1.8,1.8,0,0,1-1.322.033,1.763,1.763,0,0,1,.041-3.15Z" transform="translate(-274.432 -360.927)" fill="#d1d1d1" fill-rule="evenodd"/>
+            <path id="Forma_10_copiar-6" data-name="Forma 10 copiar" d="M290.089,378.488a1.091,1.091,0,0,1,.827.1,1.512,1.512,0,0,1,0,1.99,1.143,1.143,0,0,1-.909.033,1.074,1.074,0,0,1-.579-1.061C289.433,379.364,289.493,378.662,290.089,378.488Z" transform="translate(-288.808 -377.868)" fill="#e4e4e4" fill-rule="evenodd"/>
+          </g>
+          <path id="_1_copiar-2" data-name="1 copiar" d="M215.56,360.953h-.5l-.62.829h.62q-.012,1.259-.025,2.519l.52,0Z" transform="translate(-210.063 -360.952)" fill="#d1d1d1" fill-rule="evenodd"/>
+          <path id="_1_copiar_5-2" data-name="1 copiar 5" d="M381.56,360.922h-.5l-.62.829h.62q-.012,1.259-.025,2.519l.52,0Z" transform="translate(-369.203 -360.922)" fill="#d1d1d1" fill-rule="evenodd"/>
+        </g>
+        <path id="Forma_9" data-name="Forma 9" d="M327.041,26c-.014,1.514-.028,3.019-.041,4.533h4.943Z" transform="translate(-315.943 -25.959)" fill="#bebebe" fill-rule="evenodd"/>
+      </g>
+      <g id="vassoura" transform="translate(58.003 78)">
+        <path id="Forma_57" data-name="Forma 57" d="M199.737,10.87l2.275-6.577a.959.959,0,0,1,1.01-.2.633.633,0,0,1,.394.514L201.1,11.174a2.268,2.268,0,0,1,1.324,2.26l-5.372-1.227a2.826,2.826,0,0,1,2.682-1.337Z" transform="translate(-194.362 -4.026)" fill="#f14e3d" fill-rule="evenodd"/>
+        <path id="Forma_58" data-name="Forma 58" d="M131.91,274.663l2.288-3.87,5.642,1.32-.376,4.192a.441.441,0,0,1-.232.255.635.635,0,0,1-.34.037,10.49,10.49,0,0,1-1.316-.3l.284-2.577a.4.4,0,0,0-.358-.382.517.517,0,0,0-.54.2l-.284,2.577-4.474-1.047a.4.4,0,0,1-.26-.153A.265.265,0,0,1,131.91,274.663Z" transform="translate(-131.891 -261.947)" fill="#f14e3d" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="icone_usuário_master" data-name="icone_usuário master" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safearea" data-name="icon+safearea">
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" fill="none"/>
+    <g id="icone_usuário_mestre" data-name="icone_usuário mestre" transform="translate(5 4)">
+      <g id="corpo_gravata" data-name="corpo+gravata" transform="translate(0 -5.301)">
+        <path id="gravata" d="M232.749,300.916a4.381,4.381,0,0,1,1.188-.253,4.694,4.694,0,0,1,1.81.217l-.792,1.7.848,3.005a1.521,1.521,0,0,1-1.471,1.122c-.819.029-1.806-.592-1.64-1.448l.792-2.643Z" transform="translate(-227.244 -286.35)" fill="#bebebe" fill-rule="evenodd"/>
+        <path id="corpo" d="M52.007,302a8.2,8.2,0,0,1-1.021.507,7.96,7.96,0,0,1-1.812.507A2.764,2.764,0,0,0,47,305.621v3.331H60.967l.033-3.44a2.53,2.53,0,0,0-1.68-2.317,11.179,11.179,0,0,1-2.306-.652c-.347-.14-.687-.3-1.021-.471a9.9,9.9,0,0,1-.692,3.295,9.287,9.287,0,0,1-1.252,2.209A8.729,8.729,0,0,1,52.007,302Z" transform="translate(-47 -287.652)" fill="#bebebe" fill-rule="evenodd"/>
+      </g>
+      <circle id="Ellipse_359" data-name="Ellipse 359" cx="4" cy="4" r="4" transform="translate(3)" fill="#bebebe"/>
+    </g>
+    <g id="inclusão" transform="translate(3 3)">
+      <path id="Path_4197" data-name="Path 4197" d="M4,0A4,4,0,1,1,0,4,4,4,0,0,1,4,0Z" transform="translate(8 9)" fill="#f14e3d"/>
+      <path id="_" data-name="+" d="M-1656.283,20798.322v-1.648h-1.65a.675.675,0,0,1-.673-.674.675.675,0,0,1,.673-.674h1.65v-1.648a.676.676,0,0,1,.673-.68.677.677,0,0,1,.679.68v1.648h1.649a.675.675,0,0,1,.673.674.675.675,0,0,1-.673.674h-1.649v1.648a.677.677,0,0,1-.679.68A.676.676,0,0,1-1656.283,20798.322Z" transform="translate(1667.606 -20782.998)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

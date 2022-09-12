@@ -1,0 +1,10 @@
+<svg id="iocne_menu_início" data-name="iocne menu_início" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_safe_area" data-name="icon+ safe area" transform="translate(-39 -77)">
+    <g id="Icone__início" data-name="Icone _início" transform="translate(43 83)">
+      <path id="Forma_16_copiar_2" data-name="Forma 16 copiar 2" d="M.272,362.074A.8.8,0,0,1,.7,361.9h14.52a.75.75,0,0,1,.513.144.689.689,0,0,1,.272.577v2.366a.612.612,0,0,1-.241.4.591.591,0,0,1-.272.087c-.565.041-11.9.008-14.792,0a.666.666,0,0,1-.543-.2A.587.587,0,0,1,0,364.931v-2.366a.75.75,0,0,1,.272-.491Z" transform="translate(0 -352.495)" fill="#bebebe" fill-rule="evenodd"/>
+      <path id="Forma_16_copiar_3" data-name="Forma 16 copiar 3" d="M93.917,37.464a.45.45,0,0,0,.105-.39V25.2a.46.46,0,0,0-.1-.367.551.551,0,0,0-.5-.172h-3.99a.5.5,0,0,0-.368.2.42.42,0,0,0-.079.22V37.175a.394.394,0,0,0,.157.39.454.454,0,0,0,.341.073H93.5a.562.562,0,0,0,.417-.174Z" transform="translate(-86.29 -24.658)" fill="#f24e3e" fill-rule="evenodd"/>
+      <path id="Forma_16_copiar_4" data-name="Forma 16 copiar 4" d="M294.472,141.656a.368.368,0,0,0,.076-.146.362.362,0,0,0,0-.163V132a.368.368,0,0,0-.081-.289.417.417,0,0,0-.383-.135h-3.065a.386.386,0,0,0-.282.154.337.337,0,0,0-.06.173v9.523a.314.314,0,0,0,.121.308.341.341,0,0,0,.262.058h3.086a.427.427,0,0,0,.326-.136Z" transform="translate(-281.901 -128.812)" fill="#e6e6e6" fill-rule="evenodd"/>
+    </g>
+    <rect id="Margem_de_segurança" data-name="Margem de segurança" width="24" height="24" transform="translate(39 77)" fill="none"/>
+  </g>
+</svg>
